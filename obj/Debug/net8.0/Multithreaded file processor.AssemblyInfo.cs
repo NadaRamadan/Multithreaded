@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multithreaded file processor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d562bd799f6606476d404338524651d8ad5ca89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7be4c08ca43c319f982e133bbfa88d4ca3bab8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multithreaded file processor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multithreaded file processor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
